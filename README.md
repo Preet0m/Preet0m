@@ -105,15 +105,42 @@ Hi, I'm **Preetam Basavaraj Kambar** — a Cloud & DevOps Engineer building and 
 </tr>
 </table>
 
-<sub>
-
-| Project | Stack | Link |
-|---|---|---|
-| K8s GitOps Pipeline | Kubernetes · ArgoCD · Kustomize · Prometheus · Grafana | [repo](https://github.com/Preet0m/devops-gitops-project) |
-| Automated Web App Deployment Pipeline | AWS EC2 · Docker · GitLab CI/CD · Nginx | [repo](https://github.com/Preet0m/hoobank-docker-deployment) |
-| File Vault | Node.js · Express · Backblaze B2 | [filevault.store](https://filevault.store) |
-
-</sub>
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Stack</th>
+<th align="left">Link</th>
+</tr>
+<tr>
+<td><b>K8s GitOps Pipeline</b></td>
+<td>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+</td>
+<td><a href="https://github.com/Preet0m/devops-gitops-project"><img src="https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=white"></a></td>
+</tr>
+<tr>
+<td><b>Automated Web App Deployment Pipeline</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+</td>
+<td><a href="https://github.com/Preet0m/hoobank-docker-deployment"><img src="https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=white"></a></td>
+</tr>
+<tr>
+<td><b>File Vault</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Backblaze_B2-E01A2A?style=flat-square&logo=backblaze&logoColor=white">
+</td>
+<td><a href="https://filevault.store"><img src="https://img.shields.io/badge/Visit_Site-F59E0B?style=flat-square&logo=googlechrome&logoColor=white"></a></td>
+</tr>
+</table>
 
 <br>
 
