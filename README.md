@@ -62,9 +62,9 @@ Hi, I'm **Preetam Basavaraj Kambar** — a Cloud & DevOps Engineer building and 
 ## `~/` stats
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-<img src="assets/stats-dark.svg" width="500" alt="stat card">
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+<img src="assets/card-stats-dark.svg" width="500" alt="stat card">
 </picture>
 
 <br><br>
